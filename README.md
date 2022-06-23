@@ -6,6 +6,7 @@
 和 [element-ui](https://github.com/ElemeFE/element)实现。它使用了最新的前端技术栈，内置了 i18n
 国际化解决方案，动态路由，权限验证，提炼了典型的业务模型，提供了丰富的功能组件，它可以帮助你快速搭建企业级中后台产品原型。相信不管你的需求是什么，本项目都能帮助到你。
 
+[Auth-Token-Master](https://github.com/gangster-bluelight/Auth-Token-Master.git) 是该前台页面所搭配使用的后端代码仓
 ## 前序准备
 
 你需要在本地安装 [node](http://nodejs.org/)
